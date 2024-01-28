@@ -1,16 +1,21 @@
-### Hi there 👋
+#👋 Hey there, I'm Ivanna!
 
-<!--
-**vin4a/vin4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm on a journey learning and exploring the tech world. 🚀
 
-Here are some ideas to get you started:
+🌟 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Enthusiastic learner and aspiring developer.
+- 🌱 Currently studying: Software Engineering
+
+🔭 **What I'm Up To**
+
+- 📚 Learning: Java, Python
+- 🛠️ Building a Minesweeper in Java atm.
+- 🌐 Exploring the tech community and connecting with fellow learners.
+
+📫 **Contact Info**
+- 📧 Email: ivanna.tovar@proton.me
+
+If you share similar interests or have any cool projects in mind, feel free to connect. I'm always open to collaborating and learning from each other.
+
+Let's code and learn together! 🖥️✨
