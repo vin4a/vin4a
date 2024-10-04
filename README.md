@@ -1,4 +1,4 @@
-**👋 Hey there, I'm Ivanna!**
+**👋 I'm Ivanna!**
 
 Welcome to my GitHub profile! I'm on a journey learning and exploring the tech world. 🚀
 
