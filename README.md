@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm on a journey learning and exploring the tech w
 🔭 **What I'm Up To**
 
 - 📚 Learning: Java, Python
-- 🛠️ Building a Minesweeper in Java atm.
+- 🛠️ 
 - 🌐 Exploring the tech community and connecting with fellow learners.
 
 📫 **Contact Info**
